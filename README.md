@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://orun-sunny.netlify.app/](https://orun-sunny.netlify.app/)
 
-- 📝 I regularly write articles on [daily dev](daily dev)
-
 - 💬 Ask me about **react,javascript,node**
 
 - 📫 How to reach me **sunny.mukut@gmail.com**
