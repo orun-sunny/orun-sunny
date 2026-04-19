@@ -1,23 +1,75 @@
-<h1 align="center">Hi 👋, I'm Md.Orun Sunny</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h1 align="center">Hi 👋, I'm Md. Orun Sunny</h1>
+<h3 align="center">Frontend Developer | React.js & Next.js Enthusiast | Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=orun-sunny&label=Profile%20views&color=0e75b6&style=flat" alt="orun-sunny" /> </p>
-
-- 🔭 I’m currently working on [hotel booking](https://github.com/orun-sunny/hotel-booking-web)
-
-- 🌱 I’m currently learning **React js ,next js**
-
-- 👨‍💻 All of my projects are available at [https://orun-sunny.netlify.app/](https://orun-sunny.netlify.app/)
-
-- 💬 Ask me about **react,javascript,node**
-
-- 📫 How to reach me **sunny.mukut@gmail.com**
-
-- 📄 Know about my experiences [https://orun-sunny.netlify.app/](https://orun-sunny.netlify.app/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=orun-sunny&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+## 👨‍💻 About Me
+I am a Computer Science and Engineering graduate passionate about building modern, responsive, and user-friendly web applications.  
+I enjoy turning ideas into real-world projects using JavaScript technologies.
+
+- 🔭 Currently working on **Hotel Booking Web App**  
+- 🌱 Currently learning **Next.js, advanced React patterns, backend integration**  
+- 👨‍💻 I love building **real-world UI/UX focused projects**  
+- 💬 Ask me about **React, JavaScript, Node.js, API integration**  
+- 📫 Reach me at **sunny.mukut@gmail.com**  
+- 🌐 Portfolio: [https://orun-sunny.netlify.app](https://orun-sunny.netlify.app)
+
+---
+
+## 🧠 Skills & Technologies
+
+### 💻 Frontend Development
+- HTML5, CSS3, JavaScript (ES6+)
+- React.js, Next.js
+- Tailwind CSS, Bootstrap
+- Responsive Web Design
+
+### ⚙️ Backend Development
+- Node.js, Express.js
+- REST API Development
+- MongoDB, MySQL (Basics)
+
+### 🛠 Tools & Platforms
+- Git & GitHub
+- Postman
+- Firebase
+- Figma (UI Design)
+
+---
+
+## 🚀 Projects
+
+### 🏨 Hotel Booking Web App
+- Built a responsive hotel booking platform
+- Implemented dynamic UI with React
+- Integrated API-based data handling
+- 🔗 [GitHub Repo](https://github.com/orun-sunny/hotel-booking-web)
+
+### 🌐 Portfolio Website
+- Personal developer portfolio
+- Showcases skills and projects
+- Built with React + Tailwind
+
+---
+
+## 📈 What I Focus On
+- Writing clean and reusable code  
+- Building scalable frontend architecture  
+- Improving UI/UX experience  
+- Learning backend integration for full-stack development  
+
+---
+
+## 🤝 Connect With Me
+- 📧 Email: **sunny.mukut@gmail.com**
+- 🌐 Portfolio: https://orun-sunny.netlify.app
+- 💻 GitHub: https://github.com/orun-sunny
+
+---
+
+## ⚡ Fun Fact
+I enjoy solving problems and building projects that solve real-life needs. I believe consistency is more important than speed in learning programming.
