@@ -32,13 +32,6 @@ I enjoy turning ideas into real-world projects using JavaScript technologies.
 - Node.js, Express.js
 - REST API Development
 - MongoDB, MySQL (Basics)
-
-### 🛠 Tools & Platforms
-- Git & GitHub
-- Postman
-- Firebase
-- Figma (UI Design)
-
 ---
 
 ## 🚀 Projects
@@ -48,11 +41,6 @@ I enjoy turning ideas into real-world projects using JavaScript technologies.
 - Implemented dynamic UI with React
 - Integrated API-based data handling
 - 🔗 [GitHub Repo](https://github.com/orun-sunny/hotel-booking-web)
-
-### 🌐 Portfolio Website
-- Personal developer portfolio
-- Showcases skills and projects
-- Built with React + Tailwind
 
 ---
 
