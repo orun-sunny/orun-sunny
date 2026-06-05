@@ -6,7 +6,6 @@
 </p>
 
 ---
-
 ## 👨‍💻 About Me
 I am a Computer Science and Engineering graduate passionate about building modern, responsive, and user-friendly web applications.  
 I enjoy turning ideas into real-world projects using JavaScript technologies.
@@ -17,9 +16,7 @@ I enjoy turning ideas into real-world projects using JavaScript technologies.
 - 💬 Ask me about **React, JavaScript, Node.js, API integration**  
 - 📫 Reach me at **sunny.mukut@gmail.com**  
 - 🌐 Portfolio: [https://orun-sunny.netlify.app](https://orun-sunny.netlify.app)
-
 ---
-
 ## 🧠 Skills & Technologies
 
 ### 💻 Frontend Development
@@ -41,14 +38,6 @@ I enjoy turning ideas into real-world projects using JavaScript technologies.
 - Implemented dynamic UI with React
 - Integrated API-based data handling
 - 🔗 [GitHub Repo](https://github.com/orun-sunny/hotel-booking-web)
-
----
-
-## 📈 What I Focus On
-- Writing clean and reusable code  
-- Building scalable frontend architecture  
-- Improving UI/UX experience  
-- Learning backend integration for full-stack development  
 
 ---
 
